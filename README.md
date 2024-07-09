@@ -3,6 +3,10 @@
 
 Lazy load modules & components in AngularJS
 
+## LeadingReach changes
+LeadingReach changes based on https://github.com/ocombe/ocLazyLoad/issues/225. Made changes in /dist/ocLazyLoad.js, and created a yarn package with `yarn pack dist/ocLazyLoad.js`.
+The resulting oclazyload-v1.1.0-lr.tgz file was then copied to the apphead repository to be used with `yarn`.
+
 ----
 <p align="center">
 
